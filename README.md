@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error that can occur when working with lists in Python: handling empty and inconsistent data type lists. The `bug.py` file contains a function that attempts to calculate the average of a list, but does not handle the case of an empty list. The `bugSolution.py` file shows how to fix this error.
